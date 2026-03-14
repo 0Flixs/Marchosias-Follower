@@ -1,4 +1,4 @@
-To get the Marchosias Form you will need to download [BepinEx](https://github.com/BepInEx/BepInEx/releases), [COTL Custom Spine Loader](https://github.com/InfernoDragon0/COTL-CustomSpineLoader), [COTL API](https://github.com/xhayper/COTL_API) and [CotlSaveExtractorLoader](https://github.com/osoclos/CotlSaveExtractorLoader).
+To get the Marchosias Follower Form you will need to download [BepinEx](https://github.com/BepInEx/BepInEx/releases), [COTL Custom Spine Loader](https://github.com/InfernoDragon0/COTL-CustomSpineLoader), [COTL API](https://github.com/xhayper/COTL_API) and [CotlSaveExtractorLoader](https://github.com/osoclos/CotlSaveExtractorLoader).
 
 Then you need to but the [BepinEx](https://github.com/BepInEx/BepInEx/releases) folder into Cult Of The Lamb's files (you can find them by selecting "Browse Local Files" on Steam).
 

@@ -1,0 +1,144 @@
+{
+    "overrideBaseSkin": "Boss Dog 1",
+    "partConfigs": {
+        "color_arm_left": {
+            "SlotIndex": 36,
+            "PartName": "ARM_LEFT_SKIN",
+            "colorChoices": [
+                "#444444"
+            ]
+        },
+        "color_arm_right": {
+            "SlotIndex": 74,
+            "PartName": "ARM_RIGHT_SKIN",
+            "colorChoices": [
+                "#444444"
+            ]
+        },
+        "color_leg_left": {
+            "SlotIndex": 48,
+            "PartName": "LEG_LEFT_SKIN",
+            "colorChoices": [
+                "#444444"
+            ]
+        },
+        "color_leg_right": {
+            "SlotIndex": 49,
+            "PartName": "LEG_RIGHT_SKIN",
+            "colorChoices": [
+                "#444444"
+            ]
+        },
+        "color_body_btm": {
+            "SlotIndex": 54,
+            "PartName": "BODY_BTM",
+            "colorChoices": [
+                "#444444"
+            ]
+        },
+        "color_body_btm_up": {
+            "SlotIndex": 54,
+            "PartName": "BODY_BTM_UP",
+            "colorChoices": [
+                "#444444"
+            ]
+        },
+        "color_body_naked": {
+            "SlotIndex": 53,
+            "PartName": "Body_Naked",
+            "colorChoices": [
+                "#444444"
+            ]
+        },
+        "color_body_naked_up": {
+            "SlotIndex": 53,
+            "PartName": "Body_Naked_Up",
+            "colorChoices": [
+                "#444444"
+            ]
+        },
+        "color_body_top": {
+            "SlotIndex": 55,
+            "PartName": "BODY_TOP",
+            "colorChoices": [
+                "#444444"
+            ]
+        },
+        "color_body_top_up": {
+            "SlotIndex": 55,
+            "PartName": "BODY_TOP_UP",
+            "colorChoices": [
+                "#444444"
+            ]
+        },
+        "color_eye_left": {
+            "SlotIndex": 102,
+            "PartName": "EYE",
+            "offsetX": 0.0,
+            "colorChoices": [
+                "#444444"
+            ],
+            "offsetY": 50.0
+        },
+        "color_eye_right": {
+            "SlotIndex": 101,
+            "PartName": "EYE",
+            "offsetX": 0.0,
+            "colorChoices": [
+                "#444444"
+            ],
+            "offsetY": 50.0
+        },
+        "color_mouth": {
+            "SlotIndex": 96,
+            "PartName": "Face/MOUTH_HAPPY",
+            "offsetX": 0.0,
+            "colorChoices": [
+                "#444444"
+            ],
+            "offsetY": 50.0
+        },
+        "part2": {
+            "SlotIndex": 89,
+            "PartName": "HEAD_SKIN_BTM",
+            "scaleX": 1.07,
+            "scaleY": 1.07,
+            "rotation": -90.0,
+            "offsetX": -0.055,
+            "offsetY": 0.0,
+            "colorChoices": [
+                "#FFFFFF"
+            ]
+        },
+        "part1back": {
+            "SlotIndex": 89,
+            "PartName": "HEAD_SKIN_BTM_BACK",
+            "scaleX": 1.07,
+            "scaleY": 1.07,
+            "colorChoices": [
+                "#FFFFFF"
+            ],
+            "offsetX": -0.055
+        },
+        "part2top": {
+            "SlotIndex": 91,
+            "PartName": "HEAD_SKIN_TOP",
+            "scaleX": 1.07,
+            "scaleY": 1.07,
+            "colorChoices": [
+                "#FFFFFF"
+            ],
+            "offsetX": -0.055
+        },
+        "part1backtop": {
+            "SlotIndex": 91,
+            "PartName": "HEAD_SKIN_TOP_BACK",
+            "scaleX": 1.07,
+            "scaleY": 1.07,
+            "colorChoices": [
+                "#FFFFFF"
+            ],
+            "offsetX": -0.055
+        }
+    }
+}
